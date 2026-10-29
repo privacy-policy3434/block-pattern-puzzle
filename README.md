@@ -2,10 +2,10 @@
 
 Last updated: 2026-01-02
 
-Block Pattern Puzzle mobile game does not collect or share any personal information from users.
+Kids Puzzle: Symmetry Game mobile game does not collect or share any personal information from users.
 
 ## Information Collection and Use
-Block Pattern Puzzle does NOT collect:
+Kids Puzzle: Symmetry Game does NOT collect:
 - Name
 - Email address
 - Phone number
@@ -24,7 +24,7 @@ This game does NOT use any third-party services such as:
 Block Pattern Puzzle does NOT contain any advertisements.
 
 ## Children's Information
-Block Pattern Puzzle is safe for children.
+Kids Puzzle: Symmetry Game is safe for children.
 The game does not knowingly collect any personal information from children under the age of 13.
 
 ## Changes to This Privacy Policy
@@ -38,10 +38,10 @@ Email:# Privacy Policy
 
 Last updated: 2026-01-02
 
-Block Pattern Puzzle mobile game does not collect or share any personal information from users.
+Kids Puzzle: Symmetry Game mobile game does not collect or share any personal information from users.
 
 ## Information Collection and Use
-Block Pattern Puzzle does NOT collect:
+Kids Puzzle: Symmetry Game does NOT collect:
 - Name
 - Email address
 - Phone number
@@ -57,10 +57,10 @@ This game does NOT use any third-party services such as:
 - Crash reporting tools
 
 ## Ads
-Block Pattern Puzzle does NOT contain any advertisements.
+Kids Puzzle: Symmetry Game does NOT contain any advertisements.
 
 ## Children's Information
-Block Pattern Puzzle is safe for children.
+Kids Puzzle: Symmetry Game is safe for children.
 The game does not knowingly collect any personal information from children under the age of 13.
 
 ## Changes to This Privacy Policy
